@@ -9,7 +9,6 @@ function App() {
       <div>Your random number is:</div>
       <div>{num}</div>
     </div>
-    <div></div>
   );
 }
 
