@@ -2,7 +2,8 @@ import './App.css';
 
 function App() {
 
-  const [num, setNum]  = useState(Math.floor(Math.random()*10))
+  // const [num, setNum]  = useState(Math.floor(Math.random()*10))
+  let num = 4
 
   return (
     <div className="App">
